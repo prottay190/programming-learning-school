@@ -1,0 +1,9 @@
+.header-menu{
+    border-bottom: 1px solid rgb(209, 208, 208);
+}
+.header{
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 20px;
+    color: black;
+}
